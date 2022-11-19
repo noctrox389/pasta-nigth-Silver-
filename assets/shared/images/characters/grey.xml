@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grey.png">
+<SubTexture name="grey idle0000" x="0" y="0" width="702" height="956" frameX="-903" frameY="-319" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0001" x="702" y="0" width="695" height="1035" frameX="-908" frameY="-239" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0002" x="1397" y="0" width="696" height="966" frameX="-913" frameY="-305" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0003" x="2093" y="0" width="696" height="971" frameX="-912" frameY="-300" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0004" x="2789" y="0" width="696" height="976" frameX="-912" frameY="-295" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0005" x="0" y="1035" width="696" height="982" frameX="-911" frameY="-289" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0006" x="696" y="1035" width="696" height="982" frameX="-911" frameY="-289" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0007" x="1392" y="1035" width="696" height="982" frameX="-911" frameY="-289" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey idle0008" x="2088" y="1035" width="696" height="982" frameX="-911" frameY="-289" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0000" x="2784" y="1035" width="696" height="1008" frameX="-912" frameY="-248" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0001" x="0" y="2043" width="696" height="1000" frameX="-912" frameY="-256" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0002" x="696" y="2043" width="696" height="993" frameX="-911" frameY="-267" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0003" x="696" y="2043" width="696" height="993" frameX="-911" frameY="-267" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0004" x="696" y="2043" width="696" height="993" frameX="-911" frameY="-267" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey up0005" x="696" y="2043" width="696" height="993" frameX="-911" frameY="-267" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0000" x="1392" y="2043" width="762" height="938" frameX="-915" frameY="-325" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0001" x="2154" y="2043" width="762" height="945" frameX="-915" frameY="-318" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0002" x="2916" y="2043" width="735" height="960" frameX="-914" frameY="-311" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0003" x="2916" y="2043" width="735" height="960" frameX="-914" frameY="-311" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0004" x="2916" y="2043" width="735" height="960" frameX="-914" frameY="-311" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey right0005" x="2916" y="2043" width="735" height="960" frameX="-914" frameY="-311" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0000" x="0" y="3043" width="729" height="963" frameX="-874" frameY="-305" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0001" x="729" y="3043" width="708" height="963" frameX="-895" frameY="-305" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0002" x="1437" y="3043" width="688" height="955" frameX="-909" frameY="-309" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0003" x="1437" y="3043" width="688" height="955" frameX="-909" frameY="-309" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0004" x="1437" y="3043" width="688" height="955" frameX="-909" frameY="-309" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey left0005" x="1437" y="3043" width="688" height="955" frameX="-909" frameY="-309" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0000" x="2125" y="3043" width="698" height="863" frameX="-906" frameY="-390" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0001" x="2823" y="3043" width="701" height="882" frameX="-906" frameY="-371" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0002" x="0" y="4006" width="700" height="903" frameX="-907" frameY="-356" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0003" x="0" y="4006" width="700" height="903" frameX="-907" frameY="-356" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0004" x="0" y="4006" width="700" height="903" frameX="-907" frameY="-356" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="grey down0005" x="0" y="4006" width="700" height="903" frameX="-907" frameY="-356" frameWidth="2488" frameHeight="1400" />
+</TextureAtlas>

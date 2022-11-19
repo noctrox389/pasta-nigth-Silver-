@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red.png">
+<SubTexture name="red red0000" x="0" y="0" width="483" height="857" frameX="-944" frameY="-238" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="red red0001" x="483" y="0" width="490" height="861" frameX="-933" frameY="-234" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="red red0002" x="0" y="861" width="478" height="866" frameX="-940" frameY="-229" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="red red0003" x="478" y="861" width="474" height="870" frameX="-944" frameY="-225" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="red red0004" x="478" y="861" width="474" height="870" frameX="-944" frameY="-225" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="red red0005" x="478" y="861" width="474" height="870" frameX="-944" frameY="-225" frameWidth="2488" frameHeight="1400" />
+</TextureAtlas>

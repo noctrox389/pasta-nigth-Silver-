@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="otherdudes.png">
+<SubTexture name="otherdudes chillin0000" x="0" y="0" width="680" height="576" frameX="-900" frameY="-480" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0001" x="680" y="0" width="680" height="576" frameX="-900" frameY="-480" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0002" x="0" y="576" width="680" height="580" frameX="-900" frameY="-476" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0003" x="680" y="576" width="680" height="583" frameX="-900" frameY="-473" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0004" x="0" y="1159" width="680" height="583" frameX="-900" frameY="-473" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0005" x="0" y="1159" width="680" height="583" frameX="-900" frameY="-473" frameWidth="2488" frameHeight="1400" />
+<SubTexture name="otherdudes chillin0006" x="0" y="1159" width="680" height="583" frameX="-900" frameY="-473" frameWidth="2488" frameHeight="1400" />
+</TextureAtlas>
